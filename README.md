@@ -13,6 +13,12 @@ This repository contains all code necessary to reproduce the experiments publish
 #### 2D TcoRNN on Rotating MNIST
 Video version of Figure 1:
 
+Before Training:
+
+<img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_mnist/before_training_rot_mnist.gif" width="100" height="100" /> <img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_mnist/before_training_rot_mnist_phase.gif" width="100" height="100" />
+
+After Training: 
+
 <img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_mnist/wave_s4main_pos.gif" width="100" height="100" /> <img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_mnist/wave_s4main_phase.gif" width="100" height="100" />
 
 Hidden state of same model as in Figure 1, but on different data samples (i.e. video version of Figure 4 in Supplementary Material):
@@ -96,8 +102,21 @@ Hidden state of 2D TcoRNN with different random initalizations:
 <img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/coRNN_adding/pos.gif" width="100" height="100" />
 
 
-#### 2D TcoRNN on sMNIST Task
+#### 2D TcoRNN (small) on sMNIST Task
 <img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_sMNIST/pos.gif" width="100" height="100" />
+
+
+#### 2D TcoRNN (medium) on sMNIST Task
+Before Training:
+
+<img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_sMNIST/sMNIST_medium_before_train.gif" width="100" height="100" />
+
+After Training
+
+<img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_sMNIST/sMNIST_medium_after_train.gif" width="100" height="100" />
+
+#### 2D TcoRNN (medium) on Random Noise
+<img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_2d_sMNIST/Tcornn_2d_NoiseTrain.gif" width="100" height="100" />
 
 #### 1D TcoRNN on sMNIST Task
 <img src="https://github.com/Anon-NeurIPS/TcoRNN/blob/master/figures/TcoRNN_1d_sMNIST/pos.gif" width="100" height="100" />
